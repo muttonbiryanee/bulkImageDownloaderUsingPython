@@ -1,3 +1,5 @@
+#first install requirements
+#pip install bs4 and pip install requests
 # First Section: Importing Libraries
 import os
 import requests
